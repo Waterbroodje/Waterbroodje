@@ -1,25 +1,22 @@
 ### Hi there 👋
 
+## Who Am I?
 I'm an Dutch Java Developer that creates Discord Bots, Minecraft Plugins & Computer Software.
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-## General info
-This project is simple Lorem ipsum dolor generator.
 	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
+## Projects
+#Minecraft Plugins:
+* MobCoins
+* Profiles
+* Hide And Seek
+* Arena
+* AntiBot & AntiCheat
+* Captcha
+* Link system (Link discord account with minecraft account)
+* Bridge
+* Reports
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+#Discord Bots:
+* Reports
+* Captcha
+* Link system (Link discord account with minecraft account)
+* Fun Games (connect4, 8ball, tictactoe)
