@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+I'm an Dutch Java Developer that creates Discord Bots, Minecraft Plugins & Computer Software.
