@@ -4,7 +4,7 @@
 I'm an Dutch Java Developer that creates Discord Bots, Minecraft Plugins & Computer Software.
 	
 ## Projects
-# Minecraft Plugins:
+#### Minecraft Plugins:
 * MobCoins
 * Profiles
 * Hide And Seek
@@ -15,7 +15,7 @@ I'm an Dutch Java Developer that creates Discord Bots, Minecraft Plugins & Compu
 * Bridge
 * Reports
 
-# Discord Bots:
+#### Discord Bots:
 * Reports
 * Captcha
 * Link system (Link discord account with minecraft account)
