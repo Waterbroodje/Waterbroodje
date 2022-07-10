@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
+I'm Timo, a developer from The Netherlands. I am a Web, Software, Minecraft and Discord developer.
 
-## Who Am I?
-I'm a Dutch Java Developer that creates Discord Bots, Minecraft Plugins & Computer Software.
+Want to see my portfolio? https://waterbroodje.nl
